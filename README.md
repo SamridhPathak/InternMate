@@ -1,4 +1,4 @@
-<img width="1828" height="796" alt="3" src="https://github.com/user-attachments/assets/77c9630d-de31-40cc-af06-d6616b79b25d" /><img width="1829" height="828" alt="1" src="https://github.com/user-attachments/assets/db034e3c-9df3-4834-b294-e8d041d0fad5" /># 🚀 InternMate – AI-Powered Internship Chatbot
+# 🚀 InternMate – AI-Powered Internship Chatbot
 
 InternMate is an intelligent chatbot designed to help users find internships, get career advice, and receive personalized guidance using Google’s Gemini Generative AI. The chatbot streamlines the search process, providing instant, context-aware responses to user queries.
 
