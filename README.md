@@ -22,7 +22,7 @@ InternMate reduces the time and effort spent searching for internships and caree
 - **AI Integration:** Google Generative AI (Gemini API)
 - **Development Tools:** VS Code, Postman
 
-## ⏳ Pending Work
+## ⏳ Future Scope
 
 - 🧠 Train the AI model based on specific internship domains and user profiles.
 - 📊 Improve recommendation accuracy for internship opportunities.
